@@ -24,36 +24,6 @@ The model uses K-Means clustering to generate centroid-based distance features, 
 ```bash
 pip install -r requirements.txt
 python main.py
-```
 
----
-
-## 3. Open GitHub
-Go to GitHub and sign in.
-
-Then:
-1. Click **New**
-2. Repository name: `inverse-feature-learning-project`
-3. Keep it **Public**
-4. Click **Create repository**
-
----
-
-## 4. Upload project using website
-This is the easiest method.
-
-After repo is created:
-1. Click **uploading an existing file**
-2. Drag and drop your whole project files there  
-   or upload file-by-file:
-   - `main.py`
-   - `requirements.txt`
-   - `README.md`
-   - `dataset` folder files
-   - `outputs` folder files
-
-Then in the commit box write:
-
-```text
 Initial project upload
 ```
